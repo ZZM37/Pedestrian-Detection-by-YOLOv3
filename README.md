@@ -10,3 +10,5 @@ The file named yolo.py is a yolo class which includes training yolo model, testi
 
 The fold named model_data includes class information, training dataset information, validation dataset information and anchors information
 
+The main contribution is to verify the effectiveness of the focal loss on YOLO. 
+Relevant codes can be obtained from YOLOv3\model.py
