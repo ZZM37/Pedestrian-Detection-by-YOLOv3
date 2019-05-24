@@ -1,0 +1,741 @@
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001501.png 250,151,299,294,0 215,354,274,466,0 568,320,607,433,0 829,180,881,321,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001504.png 258,281,324,457,0 339,281,400,459,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001511.png 304,261,455,761,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001512.png 519,276,676,676,0 310,261,450,597,0 853,277,994,769,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001514.png 367,246,467,629,0 291,234,381,479,0 533,258,663,645,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001520.png 486,222,653,765,0 292,251,425,729,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001521.png 194,176,256,418,0 262,182,314,375,0 372,181,433,368,0 419,159,475,344,0 492,170,558,382,0 550,181,605,384,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001522.png 559,217,730,795,0 928,175,975,373,0 978,181,1020,338,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001531.png 233,220,354,536,0 24,233,95,420,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001533.png 755,325,847,645,0 638,340,707,538,0 405,343,474,538,0 213,342,285,554,0 964,339,1015,500,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001544.png 385,262,535,776,0 229,221,381,793,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001545.png 425,225,555,701,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001546.png 546,202,630,647,0 414,213,547,657,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001549.png 533,248,628,582,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001555.png 305,350,370,565,0 155,173,227,384,0 451,355,535,579,0 747,357,814,533,0 527,62,576,193,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001566.png 105,131,226,434,0 233,292,302,438,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001573.png 238,277,306,562,0 321,292,407,561,0 589,259,672,560,0 791,271,901,562,0 510,267,587,538,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001574.png 203,212,296,487,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001590.png 708,142,950,906,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001593.png 326,241,378,427,0 406,218,457,431,0 488,223,556,446,0 246,241,303,423,0 624,229,690,437,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001602.png 294,334,450,878,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001604.png 317,205,412,527,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001607.png 302,163,394,501,0 200,150,281,507,0 414,148,471,395,0 501,123,573,397,0 570,146,619,386,0 632,131,690,393,0 695,145,747,399,0 746,142,797,402,0 797,131,887,406,0 997,243,1063,411,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001631.png 283,264,352,471,0 196,273,256,477,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001633.png 807,381,895,660,0 334,315,447,592,0 905,297,985,581,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001634.png 220,171,319,459,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001638.png 609,287,752,789,0 439,318,591,790,0 810,275,902,704,0 761,293,817,465,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001639.png 549,177,710,717,0 91,219,284,772,0 759,199,959,791,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001641.png 601,228,713,731,0 538,185,633,718,0 275,224,432,690,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001653.png 331,202,436,497,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001654.png 304,222,461,696,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001658.png 374,189,434,378,0 304,185,366,385,0 234,192,293,379,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001659.png 636,228,711,468,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001660.png 305,312,418,671,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001661.png 426,239,526,584,0 278,240,486,593,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001664.png 671,323,723,448,0 637,324,683,449,0 271,312,330,472,0 229,313,292,479,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001670.png 769,232,905,571,0 580,252,676,555,0 417,251,521,550,0 178,238,293,540,0 292,226,422,547,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001676.png 612,376,731,775,0 787,429,903,768,0 419,413,563,689,0 244,396,385,767,0 210,202,323,557,0 949,477,1040,779,0 883,556,962,811,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001682.png 203,174,287,470,0 283,194,383,464,0 553,164,655,462,0 696,167,768,400,0 779,169,872,426,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001683.png 216,170,316,507,0 350,150,451,475,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001684.png 244,98,306,232,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001688.png 598,177,767,898,0 966,294,1028,523,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001704.png 444,277,601,794,0 102,315,228,785,0 800,78,844,219,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001706.png 740,105,961,893,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001715.png 393,259,509,647,0 476,212,588,672,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001716.png 222,257,306,557,0 46,240,157,542,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001718.png 503,359,593,570,0 617,381,717,681,0 829,399,918,688,0 913,388,982,575,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001719.png 360,379,458,741,0 454,368,545,742,0 753,424,849,736,0 855,444,960,746,0 946,451,1045,746,0 148,422,179,521,0 166,419,206,517,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001722.png 244,280,394,802,0 134,345,267,839,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001723.png 373,181,453,430,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001724.png 215,152,276,338,0 80,156,154,438,0 156,69,182,141,0 127,70,155,133,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop001725.png 201,207,254,394,0 173,211,219,382,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000001.png 142,66,340,646,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000002.png 110,80,214,469,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000003.png 316,37,434,440,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000004.png 141,53,239,347,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000005.png 171,72,260,321,0 35,60,155,320,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000006.png 145,91,390,626,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000007.png 530,113,742,581,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000008.png 475,68,621,709,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000009.png 303,68,478,655,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000012.png 151,143,373,626,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000013.png 194,118,363,626,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000015.png 190,104,479,647,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000016.png 581,83,755,662,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000017.png 513,63,684,718,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000018.png 254,64,460,602,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000019.png 413,82,624,667,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000020.png 261,71,386,505,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000021.png 289,49,469,533,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000023.png 467,80,648,565,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000024.png 184,111,346,616,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000025.png 294,75,530,663,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000026.png 135,274,239,500,0 332,151,467,446,0 512,168,610,507,0 709,93,836,531,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000027.png 429,40,636,666,0 65,41,219,602,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/crop_000604.png 155,65,224,306,0 288,44,374,286,0 79,56,156,307,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_007.png 139,107,244,480,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_008.png 166,114,324,569,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_009.png 173,74,322,598,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_010.png 212,151,304,566,0 40,241,82,326,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_011.png 162,155,305,503,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_012.png 212,198,280,471,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_013.png 190,218,330,524,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_014.png 159,115,324,569,0 36,109,75,221,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_015.png 200,191,284,398,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_026.png 158,51,336,635,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_028.png 144,68,322,635,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_029.png 80,85,253,602,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_030.png 116,54,277,633,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_032.png 152,54,332,631,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_033.png 142,119,312,635,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_034.png 116,53,290,630,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_036.png 191,83,371,586,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_037.png 230,229,321,539,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_038.png 217,200,346,534,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_039.png 196,232,270,413,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_040.png 172,152,309,490,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_051.png 282,104,405,436,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_052.png 293,114,363,438,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_053.png 291,121,398,426,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_055.png 273,144,389,470,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_056.png 297,76,415,434,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_058.png 319,132,398,380,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_059.png 305,127,396,411,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_062.png 387,154,507,428,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_063.png 313,173,405,414,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_064.png 252,131,357,471,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_065.png 261,125,352,456,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_070.png 217,138,313,413,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_071.png 197,71,314,429,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_073.png 287,201,410,423,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_075.png 262,183,337,355,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_076.png 264,133,386,437,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_085.png 233,157,374,559,0 139,176,228,498,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_087.png 226,187,339,551,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_088.png 157,128,296,551,0 352,138,408,327,0 310,135,370,318,0 402,147,454,317,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_089.png 181,169,304,484,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_090.png 225,164,322,528,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_092.png 192,123,327,534,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_093.png 254,138,388,530,0 102,136,226,519,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_094.png 173,127,336,567,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_095.png 150,98,333,578,0 336,123,407,301,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_096.png 370,43,445,266,0 339,67,384,254,0 192,97,341,536,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_098.png 287,98,451,536,0 41,127,153,506,0 127,145,239,511,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_099.png 194,128,334,558,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_100.png 141,222,246,474,0 323,225,400,469,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_104.png 153,198,276,514,0 277,208,387,505,0 270,179,307,260,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_105.png 216,125,356,503,0 113,124,235,491,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_107.png 220,107,404,604,0 58,198,207,598,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_115.png 266,133,373,557,0 42,79,178,578,0 150,103,253,526,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_118.png 184,208,252,390,0 133,216,191,388,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_120.png 242,163,355,439,0 154,180,273,463,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_122.png 207,224,283,462,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_127.png 333,78,451,402,0 242,113,334,402,0 125,86,155,165,0 94,87,121,160,0 150,91,176,165,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_132.png 380,182,433,327,0 455,177,512,330,0 286,182,342,332,0 234,181,283,324,0 196,182,253,329,0 98,207,154,336,0 271,196,307,321,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_134.png 219,124,345,444,0 327,107,447,439,0 485,91,523,201,0 416,89,457,194,0 140,102,163,171,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_135.png 319,141,389,393,0 257,157,321,396,0 172,142,262,396,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_136.png 322,130,401,384,0 219,142,315,395,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_137.png 305,85,365,301,0 209,92,284,304,0 152,100,215,303,0 108,65,188,287,0 380,124,429,293,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_138.png 175,72,303,373,0 338,63,435,368,0 487,45,564,372,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_159.png 203,185,258,334,0 262,181,311,321,0 303,156,377,346,0 369,179,432,341,0 445,169,511,320,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_161.png 271,103,387,439,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_164.png 247,148,340,390,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_186.png 247,172,334,389,0 337,162,414,384,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_188.png 262,170,328,341,0 208,179,268,340,0 352,182,404,356,0 413,188,474,372,0 461,218,509,362,0 2,194,40,279,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_189.png 260,121,375,429,0 353,132,434,411,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_190.png 259,145,334,367,0 121,126,211,362,0 348,140,473,418,0 427,123,525,366,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_191.png 402,172,472,387,0 475,179,546,366,0 328,184,391,363,0 219,173,264,296,0 184,181,220,298,0 263,201,305,293,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_193.png 176,147,275,427,0 322,158,411,382,0 560,160,611,281,0 424,188,477,295,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_194.png 258,187,325,358,0 349,176,408,353,0 398,175,460,338,0 312,197,356,355,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_198.png 183,82,305,446,0 318,103,429,431,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_200.png 75,218,113,351,0 102,195,145,338,0 171,196,210,342,0 189,201,230,344,0 221,203,267,351,0 247,197,299,355,0 303,197,350,354,0 360,210,414,351,0 414,195,465,351,0 445,206,492,345,0 329,212,373,343,0 477,218,524,350,0 512,195,557,292,0 556,198,602,295,0 597,196,637,307,0 140,197,175,330,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_204.png 89,70,181,318,0 235,160,324,393,0 321,98,464,407,0 503,95,566,281,0 447,103,489,215,0 559,121,636,396,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_206.png 307,178,397,449,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_207.png 305,168,361,324,0 185,173,235,316,0 279,227,323,333,0 246,186,300,298,0 417,181,482,411,0 98,181,145,331,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_210.png 256,155,333,398,0 331,142,408,394,0 473,139,524,259,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_212.png 302,166,366,356,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_216.png 352,126,433,458,0 214,137,307,389,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_217.png 238,214,328,445,0 52,192,112,394,0 157,195,217,378,0 432,182,509,389,0 371,194,426,392,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_218.png 217,103,343,475,0 333,134,416,394,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_222.png 170,84,265,451,0 402,69,503,441,0 324,80,395,283,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_230.png 412,127,524,449,0 251,124,375,440,0 146,135,219,322,0 115,153,142,238,0 228,140,259,234,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_236.png 312,138,396,406,0 206,153,264,321,0 93,141,157,312,0 146,184,197,321,0 442,156,495,337,0 482,170,524,358,0 530,153,607,363,0 98,208,142,320,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_246.png 277,89,404,458,0 193,26,296,443,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_247.png 258,144,316,386,0 317,153,396,375,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_248.png 256,128,380,433,0 370,174,485,432,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_249.png 216,182,292,422,0 282,178,356,419,0 414,169,488,414,0 468,168,538,415,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_250.png 221,102,344,460,0 369,100,465,408,0 125,98,209,406,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_251.png 323,78,469,448,0 206,77,331,434,0 473,91,524,270,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_255.png 215,149,305,389,0 406,158,479,384,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_263.png 284,134,381,451,0 172,127,283,459,0 63,129,166,422,0 8,188,60,342,0 345,159,428,404,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_265.png 70,76,168,391,0 301,189,379,393,0 390,168,469,394,0 490,178,565,394,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_272.png 41,66,170,471,0 182,59,275,472,0 298,49,440,468,0 441,41,550,439,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_280.png 245,162,357,404,0 334,145,400,334,0 457,158,504,304,0 498,151,548,302,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_282.png 253,136,350,422,0 82,139,131,232,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_290.png 293,152,427,438,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_293.png 257,103,367,403,0 171,112,228,259,0 114,118,167,260,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_303.png 371,134,470,431,0 244,146,353,476,0 144,149,223,390,0 476,121,524,282,0 202,127,265,346,0 112,114,179,331,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_306.png 254,147,358,428,0 155,136,252,457,0 424,165,456,256,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_314.png 183,128,249,395,0 480,111,589,443,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_315.png 335,204,411,394,0 473,188,524,330,0 518,186,577,333,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_316.png 323,193,422,475,0 279,210,350,456,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_317.png 324,147,404,385,0 190,160,296,395,0 180,137,215,216,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_318.png 212,109,299,368,0 304,124,369,351,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_323.png 251,107,384,419,0 130,77,260,417,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_325.png 218,120,332,400,0 126,117,235,388,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_335.png 263,158,359,378,0 233,159,263,273,0 172,144,227,274,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_336.png 367,104,460,376,0 280,128,382,376,0 121,126,152,222,0 74,133,104,208,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_337.png 312,181,386,397,0 186,145,244,354,0 73,138,134,315,0 143,165,188,312,0 253,154,343,353,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_347.png 254,118,361,398,0 423,162,516,365,0 360,141,385,219,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_350.png 144,77,240,469,0 40,79,146,473,0 275,95,397,463,0 510,113,581,439,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_004.png 126,19,337,636,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_006.png 198,61,331,404,0 88,49,132,155,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_012.png 213,83,304,429,0 344,81,450,431,0 5,71,67,227,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_014.png 301,73,438,375,0 545,98,578,185,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_027.png 299,136,380,325,0 238,119,308,326,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_028.png 474,117,521,237,0 443,126,473,227,0 253,135,358,420,0 332,123,363,189,0 378,116,401,176,0 394,112,422,173,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_029.png 571,120,610,265,0 204,153,304,468,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_035.png 172,142,248,417,0 264,131,344,410,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_038.png 307,131,376,330,0 70,125,142,276,0 449,118,620,460,0 273,126,327,289,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_042.png 299,46,418,397,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_043.png 311,39,412,388,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_044.png 278,71,403,375,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_045.png 180,35,351,458,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_046.png 202,44,354,369,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_047.png 292,56,392,404,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_048.png 212,47,328,396,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_049.png 297,36,418,395,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_050.png 253,34,446,469,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_051.png 267,80,399,417,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_052.png 265,29,409,443,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_053.png 249,20,366,449,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_054.png 208,54,371,425,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_055.png 223,65,346,396,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_056.png 291,37,433,390,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_057.png 243,47,361,397,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_058.png 182,49,275,402,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_059.png 259,52,358,403,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_060.png 244,33,381,407,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_061.png 280,45,429,441,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_062.png 271,40,402,428,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_063.png 242,44,432,435,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_064.png 210,37,422,406,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_065.png 205,36,323,318,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_066.png 242,40,354,397,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_067.png 230,51,381,372,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_069.png 289,38,404,453,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_070.png 238,53,345,412,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_071.png 262,51,391,475,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_072.png 384,46,494,414,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_073.png 233,47,333,443,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_076.png 319,40,411,385,0 144,25,219,254,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_077.png 376,25,465,342,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_079.png 287,51,409,449,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_080.png 378,41,518,475,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_081.png 280,40,421,469,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_082.png 299,31,434,418,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_083.png 237,33,394,457,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_084.png 285,51,429,475,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_085.png 266,70,430,476,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_086.png 278,56,432,441,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_087.png 269,21,429,432,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_088.png 301,53,443,449,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_089.png 208,50,360,391,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_090.png 137,57,229,410,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_091.png 164,35,366,385,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_092.png 229,35,407,362,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_093.png 245,42,372,377,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_094.png 237,51,373,394,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_095.png 179,52,315,400,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_096.png 201,41,335,388,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_097.png 285,19,459,475,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_098.png 195,12,410,424,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_099.png 209,9,411,417,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_100.png 223,10,395,374,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_101.png 203,49,387,381,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_102.png 236,35,358,415,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_103.png 275,31,444,371,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_104.png 264,60,480,443,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_105.png 240,43,416,385,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_106.png 239,47,416,398,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_107.png 209,37,412,447,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_108.png 189,5,406,371,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_109.png 187,38,372,379,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_110.png 272,2,407,385,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_111.png 200,16,467,382,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_112.png 190,0,381,370,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_113.png 180,1,354,394,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_114.png 235,46,394,452,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_126.png 274,139,373,406,0 355,140,454,412,0 106,134,175,292,0 528,149,558,231,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_133.png 255,118,355,402,0 351,141,430,405,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_136.png 382,153,455,368,0 326,159,393,379,0 202,170,277,359,0 111,165,186,359,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_140.png 250,146,339,382,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_141.png 221,52,334,427,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_149.png 204,176,304,446,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_153.png 386,145,466,416,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_159.png 258,61,400,452,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_160.png 264,39,423,469,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_161.png 233,49,383,418,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_162.png 230,55,389,431,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_163.png 163,35,315,443,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_164.png 215,37,390,444,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_165.png 230,37,383,364,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_177.png 69,128,289,597,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_181.png 250,180,327,405,0 317,184,408,396,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_188.png 336,184,408,365,0 288,188,327,278,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_189.png 224,90,385,470,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/pos/person_and_bike_190.png 211,144,308,370,0 283,127,390,384,0
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001147.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001148.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001149.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001150.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001153.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001154.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001155.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001156.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001157.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001158.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001159.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001160.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001161.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001162.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001163.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001165.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001166.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001167.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001168.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001169.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001170.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001171.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001172.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001173.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001176.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001177.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001178.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001179.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001180.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001181.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001192.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001193.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001194.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001202.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001203.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001204.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001205.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001207.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001208.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001209.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001210.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001211.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001212.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001214.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001215.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001216.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001217.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001218.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001219.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001220.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001221.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001222.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001223.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001224.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001225.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001226.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001227.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001228.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001231.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001232.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001233.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001234.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001236.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001240.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001241.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001242.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001243.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001247.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001249.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001250.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001251.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001253.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001254.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001255.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001256.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001257.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001258.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001259.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001260.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001262.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001263.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001265.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001269.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001270.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001271.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001272.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001273.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001279.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001280.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001292.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001293.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001294.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001301.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001304.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001305.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001307.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001308.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001309.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001319.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001324.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001325.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001326.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001327.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001328.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001329.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001330.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001331.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001332.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001335.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001337.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001338.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001342.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001343.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001344.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001348.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001349.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001350.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001352.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001353.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001354.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001355.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001356.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001358.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001361.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001362.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001369.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001370.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001371.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001372.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001373.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001374.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001375.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001376.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001377.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001378.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001379.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001380.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001381.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001382.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001383.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001385.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001386.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001387.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001388.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001389.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001390.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001391.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001392.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001393.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001394.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001395.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001396.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001401.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001402.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001405.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001406.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001407.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001408.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001409.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001410.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001411.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001412.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001413.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001414.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001415.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001416.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001417.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001418.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001419.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001420.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001421.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001422.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001425.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001427.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001431.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001432.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001433.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001434.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001435.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001436.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001437.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001438.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001439.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001440.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001441.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001442.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001443.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001444.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001445.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001447.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001448.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001449.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001450.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001452.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001453.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001454.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001455.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001456.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001457.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/00001459.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/01-03f.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_003.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_006.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_009.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_012.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_015.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_018.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_021.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_024.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_027.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/bike_030.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-01-03_17h26m13s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-01-04_17h01m28s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-01-24_16h17m48s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-03-12_11h12m05s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-03-12_11h55m08s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-03-12_14h48m42s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-03-12_17h50m02s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-04-11_11h51m15s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-04-11_13h54m18s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-04-11_14h01m45s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-04-11_14h09m24s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-04-25_12h04m32s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-04-25_14h40m04s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-08_10h26m52s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-10_16h22m42s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-10_18h03m03s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-10_18h36m17s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-11_18h44m38s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-11_21h37m10s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-12_18h05m32s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-14_13h25m18s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-14_19h36m25s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-14_19h43m31s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_10h02m38s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_11h23m43s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_11h41m51s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_11h43m48s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_13h58m11s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_15h52m20s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-16_19h11m16s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-30_10h50m43s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-30_12h07m51s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-05-30_14h08m24s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-06-28_00h53m14s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_09h14m47s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_09h22m45s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_11h10m42s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_11h50m53s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_13h56m23s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_13h59m38s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_14h00m20s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-06_14h59m24s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-07_04h31m36s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-07_04h40m20s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-07_07h46m43s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-08_05h01m32s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-08_23h18m59s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-08_23h27m44s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-08_23h55m07s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_01h05m35s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_17h00m44s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_18h11m16s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_18h17m15s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_19h08m37s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_20h02m53s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_21h27m05s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_21h52m21s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_22h25m11s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-09_22h30m55s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-10_02h54m18s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-18_13h21m58s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-18_15h56m59s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-25_11h25m12s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-07-25_12h26m41s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-07_14h38m48s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-16_10h13m11s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-16_14h33m40s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-16_17h46m53s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-16_18h14m05s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-17_09h50m11s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-17_11h27m30s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-17_13h34m32s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-17_14h29m45s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-17_16h17m58s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-18_10h43m07s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-18_16h06m52s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-18_17h59m51s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-18_18h54m20s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_12h59m58s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_13h22m04s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_13h22m54s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_13h30m48s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_15h28m28s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_16h29m34s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-19_18h18m18s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-20_11h04m42s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-20_11h41m04s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-20_12h05m11s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-20_12h37m02s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-21_10h06m43s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-21_10h49m39s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-21_10h59m45s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-21_14h09m14s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-21_16h59m25s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_09h43m19s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_09h49m40s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_12h05m47s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_12h10m27s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_12h18m46s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_12h24m05s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_14h41m59s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_17h02m31s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_18h12m03s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-22_19h18m30s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-23_12h31m12s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-23_12h33m21s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-23_12h38m23s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-23_12h42m36s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-23_15h35m56s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_12h44m04s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_14h17m59s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_16h28m39s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_17h11m07s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_19h56m52s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_21h00m12s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-24_21h44m09s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-25_14h16m32s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-25_14h24m19s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-08-25_18h20m04s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-04_15h14m39s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-13_14h38m33s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-18_15h09m49s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-18_15h28m13s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-18_15h57m02s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-18_16h16m49s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-18_16h58m08s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-18_17h24m23s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-19_10h19m52s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-19_11h58m56s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-19_14h57m48s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-19_16h05m31s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-24_14h37m43s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-24_14h42m22s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-09-24_14h48m16s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-10-02_10h26m23s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-10-02_10h52m13s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-07_18h37m53s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-07_19h02m42s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-09_10h30m38s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-09_10h43m56s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-09_11h24m12s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-17_14h54m39s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-18_01h51m47s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-18_13h35m07s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/D2004-11-18_18h11m57s.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/dsc00009.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/dsc00179.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/dsc00182.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/dsc00197.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/dsc00208.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/dsc00232.jpg
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_003.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_006.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_009.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_012.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_015.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_018.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_021.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_024.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_027.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_030.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_033.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_036.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_039.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_042.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_045.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_048.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_051.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_054.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_057.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_060.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_063.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_066.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_069.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_072.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_075.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_078.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_081.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_084.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_087.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_090.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_093.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_096.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_099.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_102.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_105.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_108.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_111.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_114.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_117.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_120.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_123.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_126.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_129.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_132.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_135.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_138.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_141.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_144.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_148.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_151.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_154.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_157.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_160.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_163.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_167.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_170.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_173.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_176.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_179.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_182.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_185.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_188.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_191.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_194.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_197.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_200.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_203.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_206.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_209.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_212.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_215.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_218.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_221.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_224.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_227.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_230.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_233.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_236.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_239.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_242.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_245.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_248.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_251.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_254.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_257.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_260.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_263.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_266.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_270.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/no_person__no_bike_273.png
+D:/data/Material/DataSets/INRIADATA/original_images/test/neg/prefecture.jpg
